@@ -1,4 +1,4 @@
-module github.com/blocktree/kusama-adapter
+module github.com/Assetsadapter/kusama-adapter
 
 go 1.12
 
