@@ -1,9 +1,9 @@
 package openwtester
 
 import (
+	"github.com/Assetsadapter/kusama-adapter/kusama"
 	"github.com/blocktree/openwallet/v2/log"
 	"github.com/blocktree/openwallet/v2/openw"
-	"github.com/blocktree/kusama-adapter/kusama"
 )
 
 func init() {
